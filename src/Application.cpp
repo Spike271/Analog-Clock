@@ -88,8 +88,8 @@ namespace Clock
 
 	void Application::Update()
 	{
-		std::time_t t = std::time(nullptr);
-		std::tm* now = std::localtime(&t);
+		const std::time_t t = std::time(nullptr);
+		const std::tm* now = std::localtime(&t);
 		m_c_Specification.SecondHandPosition = now->tm_sec * 6 + 180;
 		m_c_Specification.MinuteHandPosition = now->tm_min * 6 + 180;
 		m_c_Specification.HourHandPosition = now->tm_hour * 30 + (now->tm_min / 60.0f) * 30 + 180;
