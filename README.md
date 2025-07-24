@@ -4,7 +4,7 @@
 
 # Analog Clock
 
-[![Build for all platforms](https://github.com/Spike271/Analog-Clock/actions/workflows/Build%20for%20all%20platforms.yml/badge.svg)](https://github.com/Spike271/Analog-Clock/actions/workflows/Build%20for%20all%20platforms.yml)
+[![Build for all platforms](https://github.com/Spike271/Analog-Clock/actions/workflows/Build%20for%20all%20platforms.yml/badge.svg?branch=main)](https://github.com/Spike271/Analog-Clock/actions/workflows/Build%20for%20all%20platforms.yml)
 
 
 [![Deploy to GitHub Pages](https://github.com/Spike271/Analog-Clock/actions/workflows/deploy.yml/badge.svg)](https://github.com/Spike271/Analog-Clock/actions/workflows/deploy.yml)
